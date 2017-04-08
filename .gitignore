@@ -1,0 +1,8 @@
+__pycache__
+*.pkl
+*.leveldb
+*.zip
+corenlp
+postagger
+indeed_ml_dataset
+*.pyc
